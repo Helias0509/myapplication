@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DBox</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="username">Username:</string>
+    <string name="password">Password:</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="title_activity_file_listing">FileListingActivity</string>
+    <string name="refresh">Refresh</string>
+    <string name="upload">Upload</string>
+    <string name="newFolder">New Folder</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="title_activity_display_message">My Message</string>
+
+</resources>
